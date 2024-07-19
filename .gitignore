@@ -1,3 +1,20 @@
+# csv json, and other files
+*.dtsx
+*.csv
+*.json
+
+*csv/*
+*json/*
+*dtsx/*
+*bing/
+*SSIS/
+*csv_main_files/
+*StoreProcedures/
+*bing/
+
+*dtsx
+SSIS/*
+
 # Temporary and binary files
 *~
 *.py[cod]
